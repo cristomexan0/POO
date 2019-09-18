@@ -8,7 +8,7 @@ Portafolio de evidencias agosto-diciembre 2019
 
 ### TAREA 1
 
-[CREAR UN REPOSITORIO DE GITHUB _(https://github.com/cristomexan0/POO/blob/master/Unidadd1/Traea1.md)
+[CREAR UN REPOSITORIO DE GITHUB]_(https://github.com/cristomexan0/POO/blob/master/README.md)
 
 ### TAREA 2
 
