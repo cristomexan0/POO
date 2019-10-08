@@ -1,0 +1,11 @@
+C:\Users\SONY VAIO\Documents\GitHub\POO\Programa_Pelicula\bin\Debug\netcoreapp2.2\Programa_Pelicula.deps.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Programa_Pelicula\bin\Debug\netcoreapp2.2\Programa_Pelicula.runtimeconfig.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Programa_Pelicula\bin\Debug\netcoreapp2.2\Programa_Pelicula.runtimeconfig.dev.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Programa_Pelicula\bin\Debug\netcoreapp2.2\Programa_Pelicula.dll
+C:\Users\SONY VAIO\Documents\GitHub\POO\Programa_Pelicula\bin\Debug\netcoreapp2.2\Programa_Pelicula.pdb
+C:\Users\SONY VAIO\Documents\GitHub\POO\Programa_Pelicula\obj\Debug\netcoreapp2.2\Programa_Pelicula.csprojAssemblyReference.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Programa_Pelicula\obj\Debug\netcoreapp2.2\Programa_Pelicula.csproj.CoreCompileInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Programa_Pelicula\obj\Debug\netcoreapp2.2\Programa_Pelicula.AssemblyInfoInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Programa_Pelicula\obj\Debug\netcoreapp2.2\Programa_Pelicula.AssemblyInfo.cs
+C:\Users\SONY VAIO\Documents\GitHub\POO\Programa_Pelicula\obj\Debug\netcoreapp2.2\Programa_Pelicula.dll
+C:\Users\SONY VAIO\Documents\GitHub\POO\Programa_Pelicula\obj\Debug\netcoreapp2.2\Programa_Pelicula.pdb
