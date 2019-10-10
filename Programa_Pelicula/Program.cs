@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Programa_Pelicula
 {
@@ -43,20 +44,29 @@ namespace Programa_Pelicula
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
             Pelicula p1 = new Pelicula();
             p1. Settitulo ( "Black Phanter" ) ;
             p1.Setanio  ( 2018 ) ;
            // Console.WriteLine("titulo: {0}\n Anio: {1}\n", p1.Gettitulo(), p1.Getanio());
-
             p1.imprime ();
 
             Pelicula p2 = new Pelicula();
             p2.Settitulo  (" MAD MAX " ) ;
             p2.Setanio  ( 1979 ) ;
            // Console.WriteLine("titulo: {0}\n Anio: {1}\n", p2.Gettitulo(), p2.Getanio());
-
             p2.imprime();
+
+
+            List<Pelicula> peliculas = new List<Pelicula>();
+            peliculas.Add(new Pelicula ("Black Phaner", 2018));
+            peliculas.Add(new Pelicula ("MAD MAX", 1979));
+            peliculas.Add(new Pelicula ("Regreso hacia el futuro", 1985));
+
+            foreach (Pelicula p in peliculas)
+            {
+               p.imprime();
+            }
 
         }
     }
