@@ -11,7 +11,7 @@ namespace Programa_Pelicula
      {
         this.titulo = titulo;
      }
-     public void Gettitulo( )
+     public string Gettitulo( )
      {
         return this.titulo;
      }
@@ -19,7 +19,7 @@ namespace Programa_Pelicula
      {
         this.anio = anio;
      } 
-     public void Getanio( )
+     public int Getanio( )
      {
         return this.anio;
      }
