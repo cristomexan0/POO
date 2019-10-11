@@ -1,0 +1,11 @@
+C:\Users\SONY VAIO\Documents\GitHub\POO\Duracion\bin\Debug\netcoreapp2.2\Duracion.deps.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Duracion\bin\Debug\netcoreapp2.2\Duracion.runtimeconfig.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Duracion\bin\Debug\netcoreapp2.2\Duracion.runtimeconfig.dev.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Duracion\bin\Debug\netcoreapp2.2\Duracion.dll
+C:\Users\SONY VAIO\Documents\GitHub\POO\Duracion\bin\Debug\netcoreapp2.2\Duracion.pdb
+C:\Users\SONY VAIO\Documents\GitHub\POO\Duracion\obj\Debug\netcoreapp2.2\Duracion.csprojAssemblyReference.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Duracion\obj\Debug\netcoreapp2.2\Duracion.csproj.CoreCompileInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Duracion\obj\Debug\netcoreapp2.2\Duracion.AssemblyInfoInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Duracion\obj\Debug\netcoreapp2.2\Duracion.AssemblyInfo.cs
+C:\Users\SONY VAIO\Documents\GitHub\POO\Duracion\obj\Debug\netcoreapp2.2\Duracion.dll
+C:\Users\SONY VAIO\Documents\GitHub\POO\Duracion\obj\Debug\netcoreapp2.2\Duracion.pdb
