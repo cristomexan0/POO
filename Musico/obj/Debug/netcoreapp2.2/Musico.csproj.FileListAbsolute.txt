@@ -1,0 +1,11 @@
+C:\Users\SONY VAIO\Documents\GitHub\POO\Musico\bin\Debug\netcoreapp2.2\Musico.deps.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Musico\bin\Debug\netcoreapp2.2\Musico.runtimeconfig.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Musico\bin\Debug\netcoreapp2.2\Musico.runtimeconfig.dev.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Musico\bin\Debug\netcoreapp2.2\Musico.dll
+C:\Users\SONY VAIO\Documents\GitHub\POO\Musico\bin\Debug\netcoreapp2.2\Musico.pdb
+C:\Users\SONY VAIO\Documents\GitHub\POO\Musico\obj\Debug\netcoreapp2.2\Musico.csprojAssemblyReference.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Musico\obj\Debug\netcoreapp2.2\Musico.csproj.CoreCompileInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Musico\obj\Debug\netcoreapp2.2\Musico.AssemblyInfoInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Musico\obj\Debug\netcoreapp2.2\Musico.AssemblyInfo.cs
+C:\Users\SONY VAIO\Documents\GitHub\POO\Musico\obj\Debug\netcoreapp2.2\Musico.dll
+C:\Users\SONY VAIO\Documents\GitHub\POO\Musico\obj\Debug\netcoreapp2.2\Musico.pdb
