@@ -1,0 +1,11 @@
+C:\Users\SONY VAIO\Documents\GitHub\POO\Texto\bin\Debug\netcoreapp2.2\Texto.deps.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Texto\bin\Debug\netcoreapp2.2\Texto.runtimeconfig.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Texto\bin\Debug\netcoreapp2.2\Texto.runtimeconfig.dev.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Texto\bin\Debug\netcoreapp2.2\Texto.dll
+C:\Users\SONY VAIO\Documents\GitHub\POO\Texto\bin\Debug\netcoreapp2.2\Texto.pdb
+C:\Users\SONY VAIO\Documents\GitHub\POO\Texto\obj\Debug\netcoreapp2.2\Texto.csprojAssemblyReference.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Texto\obj\Debug\netcoreapp2.2\Texto.csproj.CoreCompileInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Texto\obj\Debug\netcoreapp2.2\Texto.AssemblyInfoInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Texto\obj\Debug\netcoreapp2.2\Texto.AssemblyInfo.cs
+C:\Users\SONY VAIO\Documents\GitHub\POO\Texto\obj\Debug\netcoreapp2.2\Texto.dll
+C:\Users\SONY VAIO\Documents\GitHub\POO\Texto\obj\Debug\netcoreapp2.2\Texto.pdb

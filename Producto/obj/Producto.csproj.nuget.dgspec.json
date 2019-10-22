@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SONY VAIO\\Documents\\GitHub\\POO\\Producto\\Producto.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SONY VAIO\\Documents\\GitHub\\POO\\Producto\\Producto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SONY VAIO\\Documents\\GitHub\\POO\\Producto\\Producto.csproj",
+        "projectName": "Producto",
+        "projectPath": "C:\\Users\\SONY VAIO\\Documents\\GitHub\\POO\\Producto\\Producto.csproj",
+        "packagesPath": "C:\\Users\\SONY VAIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SONY VAIO\\Documents\\GitHub\\POO\\Producto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SONY VAIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
