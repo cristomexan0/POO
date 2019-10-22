@@ -66,17 +66,17 @@ namespace Producto
         {
             return this.nombre;
         }
-        public Producto(string nombre/* , Int16 codigo, string descripcion, int precio*/)
+        public Producto(string nombre// , Int16 codigo, string descripcion, int precio*/)
         {
             this.nombre = nombre;
-           /*  this.codigo = codigo;
+           // this.codigo = codigo;
             this.descripcion = descripcion;
             this.precio = precio;*/
         }
         public void print()
         {
             Console.WriteLine(nombre);
-            /*Console.WriteLine(codigo);
+            //Console.WriteLine(codigo);
             Console.WriteLine(descripcion);
             Console.WriteLine(precio);*/
         }

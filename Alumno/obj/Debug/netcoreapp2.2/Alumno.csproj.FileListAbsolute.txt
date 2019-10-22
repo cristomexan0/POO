@@ -1,0 +1,11 @@
+C:\Users\SONY VAIO\Documents\GitHub\POO\Alumno\bin\Debug\netcoreapp2.2\Alumno.deps.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Alumno\bin\Debug\netcoreapp2.2\Alumno.runtimeconfig.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Alumno\bin\Debug\netcoreapp2.2\Alumno.runtimeconfig.dev.json
+C:\Users\SONY VAIO\Documents\GitHub\POO\Alumno\bin\Debug\netcoreapp2.2\Alumno.dll
+C:\Users\SONY VAIO\Documents\GitHub\POO\Alumno\bin\Debug\netcoreapp2.2\Alumno.pdb
+C:\Users\SONY VAIO\Documents\GitHub\POO\Alumno\obj\Debug\netcoreapp2.2\Alumno.csprojAssemblyReference.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Alumno\obj\Debug\netcoreapp2.2\Alumno.csproj.CoreCompileInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Alumno\obj\Debug\netcoreapp2.2\Alumno.AssemblyInfoInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Alumno\obj\Debug\netcoreapp2.2\Alumno.AssemblyInfo.cs
+C:\Users\SONY VAIO\Documents\GitHub\POO\Alumno\obj\Debug\netcoreapp2.2\Alumno.dll
+C:\Users\SONY VAIO\Documents\GitHub\POO\Alumno\obj\Debug\netcoreapp2.2\Alumno.pdb
