@@ -1,0 +1,4 @@
+C:\Users\SONY VAIO\Documents\GitHub\POO\Fraction\obj\Debug\netcoreapp2.2\Fraction.csprojAssemblyReference.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Fraction\obj\Debug\netcoreapp2.2\Fraction.csproj.CoreCompileInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Fraction\obj\Debug\netcoreapp2.2\Fraction.AssemblyInfoInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Fraction\obj\Debug\netcoreapp2.2\Fraction.AssemblyInfo.cs
