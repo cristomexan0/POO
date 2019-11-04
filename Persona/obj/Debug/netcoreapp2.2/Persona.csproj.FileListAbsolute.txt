@@ -1,0 +1,4 @@
+C:\Users\SONY VAIO\Documents\GitHub\POO\Persona\obj\Debug\netcoreapp2.2\Persona.csprojAssemblyReference.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Persona\obj\Debug\netcoreapp2.2\Persona.csproj.CoreCompileInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Persona\obj\Debug\netcoreapp2.2\Persona.AssemblyInfoInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Persona\obj\Debug\netcoreapp2.2\Persona.AssemblyInfo.cs
