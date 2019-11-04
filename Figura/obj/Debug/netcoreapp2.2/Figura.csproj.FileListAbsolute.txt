@@ -1,0 +1,4 @@
+C:\Users\SONY VAIO\Documents\GitHub\POO\Figura\obj\Debug\netcoreapp2.2\Figura.csprojAssemblyReference.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Figura\obj\Debug\netcoreapp2.2\Figura.csproj.CoreCompileInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Figura\obj\Debug\netcoreapp2.2\Figura.AssemblyInfoInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\Figura\obj\Debug\netcoreapp2.2\Figura.AssemblyInfo.cs
