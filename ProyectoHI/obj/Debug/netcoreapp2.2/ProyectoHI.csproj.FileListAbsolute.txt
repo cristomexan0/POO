@@ -1,0 +1,3 @@
+C:\Users\SONY VAIO\Documents\GitHub\POO\ProyectoHI\obj\Debug\netcoreapp2.2\ProyectoHI.csprojAssemblyReference.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\ProyectoHI\obj\Debug\netcoreapp2.2\ProyectoHI.AssemblyInfoInputs.cache
+C:\Users\SONY VAIO\Documents\GitHub\POO\ProyectoHI\obj\Debug\netcoreapp2.2\ProyectoHI.AssemblyInfo.cs
