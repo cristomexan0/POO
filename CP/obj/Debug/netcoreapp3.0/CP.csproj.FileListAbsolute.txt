@@ -1,0 +1,11 @@
+C:\Users\ITT\Documents\GitHub\POO\CP\bin\Debug\netcoreapp3.0\CP.exe
+C:\Users\ITT\Documents\GitHub\POO\CP\bin\Debug\netcoreapp3.0\CP.deps.json
+C:\Users\ITT\Documents\GitHub\POO\CP\bin\Debug\netcoreapp3.0\CP.runtimeconfig.json
+C:\Users\ITT\Documents\GitHub\POO\CP\bin\Debug\netcoreapp3.0\CP.runtimeconfig.dev.json
+C:\Users\ITT\Documents\GitHub\POO\CP\bin\Debug\netcoreapp3.0\CP.dll
+C:\Users\ITT\Documents\GitHub\POO\CP\bin\Debug\netcoreapp3.0\CP.pdb
+C:\Users\ITT\Documents\GitHub\POO\CP\obj\Debug\netcoreapp3.0\CP.csprojAssemblyReference.cache
+C:\Users\ITT\Documents\GitHub\POO\CP\obj\Debug\netcoreapp3.0\CP.AssemblyInfoInputs.cache
+C:\Users\ITT\Documents\GitHub\POO\CP\obj\Debug\netcoreapp3.0\CP.AssemblyInfo.cs
+C:\Users\ITT\Documents\GitHub\POO\CP\obj\Debug\netcoreapp3.0\CP.dll
+C:\Users\ITT\Documents\GitHub\POO\CP\obj\Debug\netcoreapp3.0\CP.pdb

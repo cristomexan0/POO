@@ -1,0 +1,4 @@
+1|Libreta Roja|71.99|Departamento 1|13
+2|Paquete de lapices #3|85.99|Departamento 2|23
+3|Lapiecera 3000|90.5|Departamento 3|35
+4|Borradores Bicolor|105.99|Departamento 4|65
